@@ -1,0 +1,6 @@
+{
+  "name": "XYNER – Offline-First Software & Retail Systems",
+  "description": "XYNER engineers high-performance mobile apps, web platforms, and mission-critical POS systems with offline-first architecture for retail and hospitality worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
